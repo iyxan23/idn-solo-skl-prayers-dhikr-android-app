@@ -23,25 +23,25 @@
     <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
 
     <string-array name="arr_img_artikel">
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
+        <item>@drawable/sedekahadalahbuktikeimanan</item>
+        <item>@drawable/bahayariba</item>
+        <item>@drawable/taubatnasuha</item>
+        <item>@drawable/orangorangmunafik</item>
+        <item>@drawable/keutamaanmembacaalquran</item>
+        <item>@drawable/perintahuntukberdzikir</item>
+        <item>@drawable/surgafirdaus</item>
+        <item>@drawable/nerakajahannam</item>
     </string-array>
 
     <string-array name="arr_title_artikel">
         <item>Sedekah Adalah Bukti Keimanan</item>
-        <item>Artikel 2 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 3 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 4 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 5 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 6 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 7 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 8 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Bahaya Riba Sebagai Seorang Muslim</item>
+        <item>Memahami Taubat Nasuha</item>
+        <item>Waspada akan orang-orang munafik!</item>
+        <item>Keutamaan Membaca Al-Qur\'an</item>
+        <item>Untuk Apa Kita Berdzikir Kepada Allah?</item>
+        <item>Surga Tertinggi: Firdaus</item>
+        <item>Neraka Terrendah: Jahannam</item>
     </string-array>
 
     <string-array name="arr_desc_artikel">
@@ -54,7 +54,7 @@
             Pelaku riba terancam masuk neraka\n\n
             2. Tidak Diterima Doa\n
             Selain itu orang yang dengan sengaja memakan hasil dari transaksi riba tidak akan diterima doanya. Hal tersebut karena harta yang dihasilkan dari transaksi tersebut merupakan harta haram. Dimana tiada yang tumbuh darinya dalam tubuh kecuali daging yang haram. Selain itu tentu juga berdampak pada transaksi lain termasuk dengan niat baik seperti pemberian motor dakwah.\n
-            Suatu ketika Sa’ad Bin Waqqas berkata kepada Rasulullah SAW; “ Ya Rasulullah doakan aku agar menjadi orang yang dikabulkan doa-doanya oleh Allah”. Rasulullah menjawab, “ Wahai Sa’ad perbaikilah makananmu niscaya engkau akan menjadi orang yang selalu dikabulkan doanya. Dan demi jiwaku yang berada di tanganNya, sungguh jika ada seseorang yang memasukkan makanan haram ke dalam perutnya, maka tidak akan diterima amal-amalnya selama 40 hari. Dan seorang hamba yang dagingnya tumbuh dari hasil menipu dan riba maka neraka lebih layak baginya”. (HR Thabrani)\n\n
+            Suatu ketika Sa’ad Bin Waqqas berkata kepada Rasulullah SAW; \“ Ya Rasulullah doakan aku agar menjadi orang yang dikabulkan doa-doanya oleh Allah”. Rasulullah menjawab, “ Wahai Sa’ad perbaikilah makananmu niscaya engkau akan menjadi orang yang selalu dikabulkan doanya. Dan demi jiwaku yang berada di tanganNya, sungguh jika ada seseorang yang memasukkan makanan haram ke dalam perutnya, maka tidak akan diterima amal-amalnya selama 40 hari. Dan seorang hamba yang dagingnya tumbuh dari hasil menipu dan riba maka neraka lebih layak baginya\”. (HR Thabrani)\n\n
             3. Tidak Berkah\n
             Hal yang selalu diharapkan seorang muslim ketika hidup di dunia adalah mendapat keberkahan. Karena dengannya kehidupan menjadi tenang dan akan mendatangkan kebaikan yang lain. Sedangkan bagi para pelaku riba, keberkahan tidak akan pernah datang dalam hidupnya. Sehingga meskipun memiliki banyak harta, hidup jauh dari ketenangan dan terus merasa kurang.\n
             Itulah beberapa bahaya yang mengancam ketika seseorang dengan sengaja mengambil riba. Jika belum mengetahui keharamannya saja transaksi tersebut akan berdampak, tentu saat sudah tahu dampaknya akan lebih besar.\n
@@ -74,13 +74,95 @@
             “Rasulullah SAW bersabda, ‘Barang siapa tertanam dalam dirinya empat hal, maka ia benar-benar seorang munafik sejati, dan barangsiapa dalam dirinya terdapat salah satu dari empat hal, maka dalam dirinya tertanam satu kemunafikan sehingga ia meninggalkannya, (yaitu):\n
             (1) Apabila berbicara ia berdusta, (2) Apabila membuat kesepakatan ia mengkhianati,\n
             (3) Apabila berjanji ia mengingkari, (4) Apabila berdebat ia tidak jujur.’\n
-            Namun di dalam hadis Sufyan disebutkan, ‘Barangsiapa dalam dirinya terdapat salah satu dari empat hal ini maka di dalam dirinya terdapat salah satu ciri kemunafika\nn',”(HR. Muslim).
+            Namun di dalam hadis Sufyan disebutkan, ‘Barangsiapa dalam dirinya terdapat salah satu dari empat hal ini maka di dalam dirinya terdapat salah satu ciri kemunafikan\',\”(HR. Muslim).\n
             Dari ciri-ciri orang munafik tersebut, maka setiap umat muslim hendaknya berhati-hati dalam bersikap sehingga dapat menjauhi seluruh sikap orang munafik di atas.\n
         </item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>
+            1. Mendapatkan Pahala dan Kebaikan\n
+            Keutamaan membaca Al-Qur\'an setiap hari adalah akan mendatangkan pahala dan banyak kebaikan. Dijelaskan, keutamaan membaca Al-Qur\'an setiap hari bisa menjadikan suasana sekitar menjadi lebih damai, tenang dan penuh dengan keberkahan.\n
+            Keutamaan membaca Al-Qur\'an setiap hari ini ditegaskan dalam hadis riwayat Tirmidzi:\n
+            “Barang siapa yang membaca satu huruf saja dari kitabullah maka seseorang akan mendapatkan kebaikan satu kali. tetapi setiap kebaikan akan dibalas dengan sepuluh kalinya.”\n\n
+            2. Memberikan Derajat dan Wibawa Lebih Baik\n
+            Keutamaan membaca Al-Qur\'an setiap hari adalah akan memberikan derajat dan wibawa lebih baik bagi pembacanya. Dijelaskan, membaca Al-Qur\’an dapat membuat seseorang terlihat semakin bercahaya dan penuh wibawa.\n
+            Inilah yang menjadikan keutamaan membaca Al-Qur\'an setiap hari baik memberikan derajat dan wibawa lebih baik bagi pembacanya. Kondisi ini dapat membuat seseorang menjadi lebih disayangi, dihormati, dan dihargai  banyak orang.\n
+            Keutamaan membaca Al-Qur\'an setiap hari ini ditegaskan dalam hadis yang menyatakan:\n
+            “Orang-orang yang hebat dalam membaca Al-Qur\’an akan selalu ditemani para malaikat pencatat yang paling dimuliakan da taat pada Allah SWT  dan orang orang yang terbata bata membaca Al-Qur\’an lalu bersusah payah mempelajarinya maka dia akan mendapatkan dua kali pahala.” (HR. Bukhari)\n\n
+            3. Memperoleh Rahmat dan Lindungan dari Malaikat\n
+            Keutamaan membaca Al-Qur\'an setiap hari adalah bisa menjadikan seseorang memperoleh rahmat dan lindungan dari para malaikat. Apalagi jika membaca Al-Qur\’an dilakukan dengan hati yang tenang dan sabar.\n
+            Dijelaskan ini dapat mendatangkan rahmat dari Allah SWT dan mendapatkan perlindungan dari para malaikat dari kejahatan yang terlihat maupun tidak terlihat.\n\n
+            4. Memberikan Syafaat di Hari Kiamat\n
+            Keutamaan membaca Al-Qur\'an setiap hari adalah bisa memberikan syafaat di hari kiamat. Mengapa bisa demikian?\n
+            Dijelaskan, membaca Al-Qur\’an dapat mendatangkan kebaikan dan kemuliaan yang tidak pernah dibayangkan oleh manusia sebelumnya bahkan juga terjadi pada hari kiamat dengan kemuliaan yang sangat besar.\n
+            Keutamaan membaca Al-Qur\'an setiap hari ini ditegaskan dalam hadis yang menyatakan bahwa:\n
+            “Bacalah bait Al-Qur\’an karena sesuyngguhnya pada hari kiamat nanti akan datng memberikan syafaat yang baik kepada pembacanya.” (HR. Muslim)\n\n
+            5. Menciptakan Perilaku Mulia\n
+            Keutamaan membaca Al-Qur\'an setiap hari adalah bisa menciptakan perilaku yang mulia. Membaca Al-Qur\’an dengan hati yang tenang dan rasa bahagia dapat merubah seseorang yang semula berperilaku tidak baik menjadi lebih baik.\n
+            Keutamaan membaca Al-Qur\'an setiap hari ini ditegaskan dalam hadis sebagai berikut:\n
+            “Sebaik baiknya manusia adalah yang membaca dan mempelajari Al-Qur\’an serta mengajarkannya pada orang lain.” (HR.Bukhari)\n\n
+            6. Menentramkan Hati\n
+            Keutamaan membaca Al-Qur\'an setiap hari adalah bisa memberikan ketentraman hati luar biasa. Selain itu, dijelaskan keutamaan membaca Al-Qur\'an setiap hari bisa meningkatkan rasa cinta terhadap Allah SWT, semua nabi dan rasul serta para malaikat-Nya. Ini sumber ketenangan itu.\n
+            Keutamaan membaca Al-Qur\'an setiap hari ini ditegaskan Allah SWT dalam surat ar-Ra’d ayat 28:\n
+            “Orang-orang yang beriman akan memiliki hati yang tenang dan tenteram jika selalu ingat dengan Allah SWT, maka ingatlah karena hanya dengan mengingatnya Allahlah, hatimu menjadi tenteram.”\n
+        </item>
+        <item>
+            Untuk mempererat hubungan hamba dengan Allah SWT, maka cara yang dapat dilakukan adalah dengan berzikir. Dalil perintah berzikir kepada Allah ini terkandung dalam Surat Al Baqarah ayat 152.
+            Allah SWT berfirman:\n\n
+            \n\nفَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ
+            Arab latin: Fażkurụnī ażkurkum wasykurụ lī wa lā takfurụn\n
+            Artinya: \"Karena itu, ingatlah kamu kepada-Ku niscaya Aku ingat (pula) kepadamu, dan bersyukurlah kepada-Ku, dan janganlah kamu mengingkari (nikmat)-Ku.\" (QS. Al Baqarah : 152)\n\n
+
+            Ayat ini menjelaskan tentang perintah untuk selalu mengingat Allah SWT. Cara untuk mengingat-Nya adalah dengan senantiasa berdzikir maupun mentaati perintah dan menjauhi larangan-Nya.\n
+            Mengutip buku Dahsyatnya Doa &amp; Zikir terbitan Qultum Media dijelaskan bahwa orang yang senantiasa berzikir kepada Allah akan mendapat doa ampunan dari para malaikat. Hal ini menjadi janji Allah SWT kepada hamba-Nya.\n
+            Perintah untuk mengingat Allah ini didasarkan atas rahmat serta ampunan yang Dia berikan kepada hamba-Nya. Hanya Allah lah yang Maha Penyayang lagi Maha Pemberi Ampunan.\n
+            Mengutip buku Imam Al Qusyairi, seorang ulama sufi besar menafsirkan bahwa, \"Jika Anda berzikir mengingat Allah, niscaya Dia akan melimpahkan karunia-Nya kepada Anda. jika Anda mengingat-Nya dalam diri (hati) Anda, niscaya Dia akan mengingat Anda dalam diri-Nya. Dan, jika Anda zikir mengingat-Nya, niscaya Dia akan mengingat Anda di tengah keramaian penduduk langit.\"\n
+            Dikatakan pula bahwa berzikir tidaklah mengenal ruang dan waktu. Di mana pun dan kapan pun seseorang dapat berzikir, karena begitulah seharusnya seorang hamba yang selalu mengingat Tuhannya setiap saat.\n
+        </item>
+        <item>
+            Surga Firdaus merupakan surga yang berada pada tingkatan tertinggi. Dalam Al-Qur\'an dan sejumlah hadits, disebutkan bahwa surga Firdaus digambarkan sebagai tempat yang penuh kenikmatan.\n
+            Sebagaimana dijelaskan dalam firman Allah SWT,\n\n
+            اُولٰۤىِٕكَ هُمُ الْوٰرِثُوْنَ ۙ ١٠ الَّذِيْنَ يَرِثُوْنَ الْفِرْدَوْسَۗ هُمْ فِيْهَا خٰلِدُوْنَ ١١
+            Artinya: \"Mereka itulah orang-orang yang akan mewarisi. (Yaitu) orang-orang yang akan mewarisi (surga) Firdaus. Mereka kekal di dalamnya.\" (QS Al-Mu\'minun: 10-11)\n\n
+            اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ كَانَتْ لَهُمْ جَنّٰتُ الْفِرْدَوْسِ نُزُلًا ۙ ١٠٧\n\n
+            Artinya: \"Sesungguhnya orang-orang yang beriman dan beramal saleh memperoleh Surga Firdaus sebagai tempat tinggal.\" (QS Al-Kahfi: 107)\n
+            Ka\'ab berkata, \"Yaitu kebun-kebun yang di dalamnya ada tanaman anggur.\" Al-Laits berkata, \"Firdaus berarti kebun yang memiliki pohon anggur.\"\n\n
+            Ibnu Qayyim al-Jauziyyah menjelaskan, kata mufardas memiliki makna tanaman yang diberi anjang-anjang. Adh-Dhahhak berkata, "Firdaus berarti kebun yang dikelilingi pohon-pohon,"\n
+            Al-Mubarrad mengemukakan pendapat bahwa kata firdaus berasal dari bahasa Arab yaitu pohon yang lebat dan mayoritasnya berupa pohon anggur.\b\b
+            Dalam buku Megahnya Surga, Abdullah Syafi\'ie turut menjelaskan mengenai Surga Firdaus. Disebutkan bahwa kata Surga Firdaus berasal dari kata \'bustan\' yang artinya \'kebun\'.\n
+            Disebutkan pula bahwa Surga Firdaus terletak persis di bawah Arsy atau singgasana Allah SWT. Oleh karena itu, Firdaus menjadi tempat yang sangat istimewa.\n
+            Di dalam Surga Firdaus, terdapat pemandangan yang sangat indah, karena di antara tingkat-tingkat surga itu terbuat dari emas dan perak.\n
+            Kemudian, dari singgasana Arsy, Allah SWT mengalirkan sungai-sungai dengan beragam air. Air dari sungai tersebut berupa susu murni yang t\nidak akan berubah warna dan kesegarannya juga terdapat madu.\n
+            Imam Ibnu Majah dalam Sunan Ibnu Majah Jilid 3, menjelaskan hadits yang berkaitan dengan Surga Firdaus.\n
+            حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ قَالَ: حَدَّثَنَا - حَفْصُ بْنُ مَيْسَرَةَ عَنْ رَيد أن أَسْلَمَ عَنْ عَطَاءِ بْن يَسَارٍ أَنَّ مُعَادُ بن حَبَل قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى الله عَلَيْهِ وَسَلَّمَ يَقُولُ: \"الجنة مائة درجة. كُل درجة. منها ما بين السَّمَاء وَالْأَرْضِ وَإِنَّ أَغْلَاهَا الْفَرْدَوس وإِن أَوْسَطَهَا الْمَرْدُوسُ وإِن الْعَرْشِ عَلَى الْفَردوس منها تفجر أنهار الجنه فإذا ما سألتم الله فسلُوهُ الفردوس \" [صحيح: \"الصحيحة\"
+            Artinya: \"Dari Suwaid bin Sa\'id, dari Hafsh bin Maisarah, dari Zaid bin Aslam, dari Atha bin Yasar, dari Mu\'adz bin Jabal ra, ia berkata, \"Aku pernah mendengar Rasulullah saw bersabda, \'Surga terdiri dari seratus tingkatan. Antar tiap tingkatan jaraknya seperti antara langit dan bumi. Surga yang tertinggi adalah Surga Firdaus, surga yang paling afdhal juga Firdaus, dan singgasana itu berada di atas Firdaus, dari dalamnya terpancar sungai-sungai surga, apabila kalian memohon surga kepada Allah maka mohonlah surga Firdaus\" (Shahih: Silsilatul Ahaadiits ash-Shahiihah, No. 922)\n\n
+
+            Kriteria Penghuni Surga Firdaus\n\n
+
+            Dalam buku Reuni Ahli Surga: Sejumlah Amalan Penting Penghuni Surga saat di Dunia, Ahmad Abi Al-Musabbih mengatakan, terdapat banyak kriteria calon penduduk Surga al-Firdaus. Hal ini menandakan bahwa tidak mudah untuk mendapatkan surga tertinggi tersebut.\n
+            Selain beribadah menjalankan syariat, terdapat sejumlah larangan yang harus dipatuhi oleh seorang hamba. Seorang hamba harus senantiasa menjauhkan diri dari perbuatan dan perkataan yang tidak berguna, hal ini juga berkaitan dengan mematuhi perintah Allah SWT.\n
+            Kemudian, penghuni Surga Firdaus juga disebutkan memiliki karakter yang sempurna sebagai hamba Allah SWT yang beriman dan bertakwa. Karakter tersebut yang membuat seorang hamba pantas untuk mendapatkan pahala berupa surga yang tingkatannya paling tinggi di anta\nra surga-surga lainnya.
+            Wallahu a\'lam.
+        </item>
+        <item>
+            Neraka terbagi menjadi 8 tingkatan dengan nama dan calon penghuni berbeda berdasarkan perbuatan yang telah dilakukan. Salah satunya adalah neraka Jahanam. Siapa saja calon penghuni neraka Jahanam tersebut?Allah SWT berfirman bahwa orang-orang yang terhindar dari panasnya neraka dan dimasukkan ke dalam surga adalah seberuntungnya orang. Allah SWT berfirman dalam surah Ali Imran ayat 185, yaitu\n\n
+
+            كُلُّ نَفْسٍ ذَاۤىِٕقَةُ الْمَوْتِۗ وَاِنَّمَا تُوَفَّوْنَ اُجُوْرَكُمْ يَوْمَ
+            الْقِيٰمَةِ ۗ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَاُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا الْحَيٰوةُ الدُّنْيَآ اِلَّا مَتَاعُ الْغُرُوْرِ
+
+            Artinya: \"Setiap yang bernyawa akan merasakan mati. Hanya pada hari Kiamat sajalah diberikan dengan sempurna balasanmu. Siapa yang dijauhkan dari neraka dan dimasukkan ke dalam surga, sungguh dia memperoleh kemenangan. Kehidupan dunia hanyalah kesenangan yang memperdaya.\"\n\n
+            Mengutip H. Ahmad Zacky El-Syafa dalam buku berjudul Ternyata Kita Tak Pantas Masuk Surga, neraka Jahanam adalah neraka dengan tingkat paling tinggi dan dikhususkan bagi orang-orang yang melakukan dosa besar. Neraka ini memiliki dasar yang sangat dalam atau keadaan yang gelap dan hitam sehingga disebut dengan neraka Jahanam.\n
+            Bukti dalamnya neraka ini dapat dilihat dari hadits nabi yang dinukil dari Abu Hurairah RA. Berikut haditsnya,\n\n
+
+            كُنَّا مَعَ رَسُولِ اللَّهِ -صلى الله عليه وسلم- إِذْ سَمِعَ وَجْبَةً فَقَالَ النَّبِىُّ -صلى الله عليه وسلم- « تَدْرُونَ مَا هَذَا ». قَالَ قُلْنَا اللَّهُ وَرَسُولُهُ أَعْلَمُ. قَالَ « هَذَا حَجَرٌ رُمِىَ بِهِ فِى النَّارِ مُنْذُ سَبْعِينَ خَرِيفًا فَهُوَ يَهْوِى فِى النَّارِ الآنَ حَتَّى انْتَهَى إِلَى قَعْرِهَا ».\n\n
+
+            Artinya: Kami dulu pernah bersama Rasulullah SAW. Tiba-tiba terdengar suara sesuatu yang jatuh. Rasulullah SAW lantas bertanya, \"Tahukah kalian, apakah itu?\" Para sahabat pun menjawab, \"Allah dan rasul-Nya yang lebih mengetahui.\" Rasulullah SAW kemudian menjelaskan, \"Ini adalah batu yang dilemparkan ke dalam neraka sejak 70 tahun yang lalu dan batu tersebut baru sampai di dasar neraka saat ini.\" (HR Muslim)\n\n
+            Keberadaan neraka Jahannam salah satunya dijelaskan dalam surah Al Hijr ayat 43\n\n
+
+            وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ\n\n
+            Artinya: \"Dan sungguh, Jahanam itu benar-benar (tempat) yang telah dijanjikan untuk mereka (pengikut setan) semuanya.\"Al-Qur\'an menjelaskan beberapa penghuni neraka Jahanam ini, di antaranya orang-orang yang berdosa besar, orang-orang yang durhaka kepada-Nya, orang munafik, orang yang suka mengikuti langkah-langkah setan, hingga orang yang bakhil (pelit). Mengenai penghuni neraka khususnya jahanam, Allah SWT menjelaskan salah satunya melalui sebuah ayat yaitu pada surah Al A\'raf ayat 179 yang berbunyi,\n\n
+
+            وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيْرًا مِّنَ الْجِنِّ وَالْاِنْسِۖ لَهُمْ قُلُوْبٌ لَّا يَفْقَهُوْنَ بِهَاۖ وَلَهُمْ اَعْيُنٌ لَّا يُبْصِرُوْنَ بِهَاۖ وَلَهُمْ اٰذَانٌ لَّا يَسْمَعُوْنَ بِهَاۗ اُولٰۤىِٕكَ كَالْاَنْعَامِ بَلْ هُمْ اَضَلُّ ۗ اُولٰۤىِٕكَ هُمُ الْغٰفِلُوْنَ\n\n
+            Artinya: \"Sungguh, Kami benar-benar telah menciptakan banyak dari kalangan jin dan manusia untuk (masuk neraka) Jahanam (karena kesesatan mereka). Mereka memiliki hati yang tidak mereka pergunakan untuk memahami (ayat-ayat Allah) dan memiliki mata yang tidak mereka pergunakan untuk melihat (ayat-ayat Allah), serta memiliki telinga yang tidak mereka pergunakan untuk mendengarkan (ayat-ayat Allah). Mereka seperti hewan ternak, bahkan lebih sesat lagi. Mereka itulah orang-orang yang lengah.\"\n
+        </item>
     </string-array>
 
     <string-array name="arr_dzikir_doa_harian">
