@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".ui.QauliyahShalatActivity">
+
+    <TextView
+        android:id="@+id/tv_txt_qauliyah"
+        android:text="@string/txt_sunnah_qauliyah"
+        style="@style/header_card_txtview_style" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_qauliyah_shalat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:listitem="@layout/row_item_dzikir_doa"
+        android:layout_below="@+id/tv_txt_qauliyah" />
+
+</RelativeLayout>

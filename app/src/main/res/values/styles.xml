@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="main_menu_icon_style">
+        <item name="android:layout_width">@dimen/main_menu_icon_size</item>
+        <item name="android:layout_height">@dimen/main_menu_icon_size</item>
+    </style>
+
+    <style name="main_menu_card_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bg_item</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="cardBackgroundColor">@color/gray</item>
+        <item name="cardCornerRadius">15dp</item>
+        <item name="contentPadding">12dp</item>
+        <item name="strokeWidth">0dp</item>
+        <item name="rippleColor">@color/blue_gray</item>
+    </style>
+
+    <style name="header_card_txtview_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:background">@drawable/bg_menu</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingEnd">20dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/main</item>
+    </style>
+</resources>
